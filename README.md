@@ -4,19 +4,15 @@ make sure to execute before you load in your slot or the script wont have shit i
 
 changelog 8/15/23
 
-added webhook (beta)
+added webhook (beta)  
+polished auto rebirth so it doesnt break as much
+more security
 
-polished auto rebirth so it doesnt break
-
-more security n shit
-
-plannned additions:
-
-leaderboard stats
-
-teleports (prob not because of detections)
-
+plannned additions:  
+leaderboard stats    
+teleports (prob not because of detections)  
 script based wiki (?)
+security checks incase dint wants to pull some stupid shit
 
 # Script
 
