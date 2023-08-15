@@ -5,12 +5,17 @@ make sure to execute before you load in your slot or the script wont have shit i
 changelog 8/15/23
 
 added webhook (beta)
+
 polished auto rebirth so it doesnt break
+
 more security n shit
 
 plannned additions:
+
 leaderboard stats
+
 teleports (prob not because of detections)
+
 script based wiki (?)
 
 # Script
