@@ -11,7 +11,7 @@ more security n shit
 
 plannned additions:
 leaderboard stats
-teleports (?)
+teleports (prob not because of detections
 
 # Script
 
