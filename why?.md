@@ -1,5 +1,5 @@
 now you may be asking "why would you target this game for a year?"  
-simple:
+simple:  
 a: im bored and need practice  
 b: dint is way too nascasistic   
 c: every other sandbox tycoon is either delt with already or irrelevant  
