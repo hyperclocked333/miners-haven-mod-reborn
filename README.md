@@ -16,4 +16,4 @@ teleports (?)
 # Script
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperclocked333/miners-haven-mod-reborn/main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hyperclocked333/miners-haven-mod-reborn/main/script.lua"))()
