@@ -11,7 +11,7 @@ more security
 plannned additions:  
 leaderboard stats    
 teleports (prob not because of detections)  
-script based wiki (?)
+script based wiki (?)  
 security checks incase dint wants to try and change the anticheat again to catch ppl (classic dint move)
 
 # Script
