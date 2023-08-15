@@ -4,7 +4,7 @@ make sure to execute before you load in your slot or the script wont have shit i
 
 changelog 8/15/23
 
-added webhook (beta)  
+added webhook (beta (its only a beta because its basic and EXTREMELY ugly) 
 polished auto rebirth so it doesnt break as much
 more security
 
