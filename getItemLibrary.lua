@@ -1,4 +1,4 @@
-local dataTable = [[
+return [[
 [
   {
     "ItemName": "Basic Iron Mine",
@@ -13434,4 +13434,3 @@ local dataTable = [[
   }
 ]
 ]]
-return dataTable
