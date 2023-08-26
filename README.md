@@ -1,4 +1,4 @@
-# Miners Haven Mod: Reborn
+# Miners Haven Mod: Reborn (PATCHED DUE TO NEW ANTICHEAT)
 
 make sure to execute before you load in your slot or the script wont have shit it needs to like work, and it will kick you
 
