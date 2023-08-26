@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("patched (rip), update soon)
+game.Players.LocalPlayer:Kick("patched (rip), update soon")
