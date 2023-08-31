@@ -1,7 +1,7 @@
 # Miners Haven Mod: Reborn (FIXED)
 
 ~~make sure to execute before you load in your slot or the script wont have shit it needs to like work, and it will kick you~~
-changelog 8/31/23
+changelog 8/31/23 
 **THANKS TO A NEW SYSTEM USED TO GRAB THE FUNCTIONS.. 
 YOU CAN NOW EXECUTE AT ANY TIME AND HAVE THE SCRIPT FUNCTION!** 
 
