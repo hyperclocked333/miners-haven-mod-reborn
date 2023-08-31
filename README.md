@@ -1,18 +1,18 @@
-# Miners Haven Mod: Reborn (PATCHED DUE TO NEW ANTICHEAT)
+# Miners Haven Mod: Reborn (FIXED)
 
-make sure to execute before you load in your slot or the script wont have shit it needs to like work, and it will kick you
+~~make sure to execute before you load in your slot or the script wont have shit it needs to like work, and it will kick you~~
+changelog 8/31/23
+**THANKS TO A NEW SYSTEM USED TO GRAB THE FUNCTIONS.. 
+YOU CAN NOW EXECUTE AT ANY TIME AND HAVE THE SCRIPT FUNCTION!** 
 
-changelog 8/15/23
-
-added webhook (beta (its only a beta because its basic and EXTREMELY ugly))  
+high security updates, as the beguinning said
+anticheat repatch (god hes consistent)
 polished auto rebirth so it doesnt break as much  
-more security
+anti-mouse tracker (you arent slick dint)
 
 plannned additions:  
 leaderboard stats    
-teleports (prob not because of detections)  
-script based wiki (?)  
-security checks incase dint wants to try and change the anticheat again to catch ppl (classic dint move)
+???
 
 # Script
 
